@@ -1,2 +1,2 @@
 # Arduino-2025
-Aqui ficarão alguns dos meus programas para rduino, na área da rôbotica.
+Aqui ficarão alguns dos meus programas para arduino, na área da rôbotica.
